@@ -36,7 +36,6 @@
 
 
 import fontforge
-#from sys import argv, exit
 import sys
 
 def refresh_compound_glyphs(dummy, f):
